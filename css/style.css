@@ -1,9 +1,11 @@
+/* navbar */
 .btn{
     background-color: #FFFFFF;
     color: blue;
     
     
 }
+/* package */
 .button{
     background-color: #FFFFFF;
     padding-left: 30px;
@@ -63,6 +65,7 @@
 }
 
 
+/* extra work */
 
 .flexible-continer{
     display: flex;
@@ -92,6 +95,7 @@ h2{
     font-weight: 700;
     border-radius: 5px;
 }
+/* footer */
 .moni{
     background-color: #0B0D17;
 }
